@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import './App.css';
 
 // Base backend API endpoint
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'https://clubsphere-trok.onrender.com/api';
 
 function App() {
   // Navigation & Role states
